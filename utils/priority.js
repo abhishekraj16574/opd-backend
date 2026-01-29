@@ -1,0 +1,7 @@
+export const PRIORITY_MAP = {
+  EMERGENCY:100,
+  PAID:80,
+  FOLLOWUP:60,
+  ONLINE:40,
+  WALKIN:20
+};
